@@ -1,0 +1,586 @@
+bus;v_nom;carrier;x;y
+Hannover/West;2200;substation;9,52258E+11;5,23604E+11
+Umspannwerk Kraftwerk Robert Frank;3800;substation;9,11321E+11;5,25439E+11
+UW Grohnde 380 kV / 110 kV;3800;substation;9,38975E+11;52026313066
+Landesbergen;3800;substation;9,12527E+11;5,25383E+11
+Wahle;3800;substation;1,03663E+11;5,22846E+11
+TenneT TSO GmbH - Betriebszentrum Lehrte;2200;substation;9,91815E+11;5,238E+11
+Algermissen;3800;substation;9,91718E+11;5,22782E+11
+Krümmel;3800;substation;1,0415E+11;53412606883
+Lüneburg;3800;substation;1,03788E+11;5,32198E+11
+Wustermark;3800;substation;1,29416E+11;5,25621E+11
+Hennigsdorf;2200;substation;1,32061E+11;5,26571E+11
+Neuenhagen;3800;substation;1,37097E+11;5,25398E+11
+Umspannwerk Oberbachern;3800;substation;1,13704E+11;48291492233
+Umspannwerk Neufinsing;2200;substation;1,18132E+11;4,82213E+11
+Umspannwerk Ottenhofen;3800;substation;1,18682E+11;4,82068E+11
+Umspannwerk Hattorf;3800;substation;1,0761E+11;5,23677E+11
+Umspannwerk Malchow;3800;substation;1,34948E+11;5,25898E+11
+Umspannwerk Lubmin;3800;substation;1,36835E+11;5,41391E+11
+Umspannwerk Oberbrunn;2200;substation;1,1294E+11;48052042772
+Umspannwerk Hamburg-Nord;3800;substation;9,98461E+11;53741128776
+Umspannwerk Hamburg/Ost;3800;substation;1,01575E+11;5,35551E+11
+Umspannwerk Kernkraftwerk Brunsbüttel;3800;substation;9,2021E+11;5389515741
+Hamburg Nord;2200;substation;9,98854E+11;5,37663E+11
+Audorf;3800;substation;9,72699E+11;5,42914E+11
+Umspannwerk Wilster;3800;substation;9,34476E+11;5,39218E+11
+Brokdorf;3800;substation;9,344E+11;5,38518E+11
+Stade;2200;substation;9,52961E+11;5,3619E+11
+Kummerfeld;2200;substation;9,77654E+11;5,36906E+11
+Stadorf;3800;substation;1,03822E+11;5,29933E+11
+Dollern;3800;substation;9,50179E+11;5,35428E+11
+Mecklar;3800;substation;97461508164;5,09168E+11
+Umspannwerk Vieselbach;3800;substation;1,11229E+11;50998909067
+Eisenach;3800;substation;1,03859E+11;5,10018E+11
+Umspannwerk Maade;2200;substation;8,12264E+11;53560516049
+Voslapp;2200;substation;8,08565E+11;5,36058E+11
+Inhausen;2200;substation;8,06006E+11;5,36202E+11
+Umspannwerk Wolmirstedt;3800;substation;1,16389E+11;5,22687E+11
+Umspannwerk Teufelsbruch;3800;substation;1,32115E+11;5,25806E+11
+Stendal/West;3800;substation;1,17274E+11;5,25689E+11
+Siedenbrünzow;3800;substation;1,31434E+11;5,39081E+11
+Umspannwerk Perleberg;3800;substation;11853105708;53086544475
+Güstrow;3800;substation;1,2187E+11;5,38158E+11
+Brandenburg-West;2200;substation;12499365967;5,24052E+11
+Umspannwerk Wuhlheide;2200;substation;1,35062E+11;5,24738E+11
+Thyrow;2200;substation;13305753295;5,22308E+11
+Umspannwerk Marzahn;3800;substation;13524198731;5,25356E+11
+Umspannwerk Friedrichshain;3800;substation;1,34564E+11;5,25215E+11
+Umspannwerk Biesdorf Nord;3800;substation;1,3537E+11;5,25375E+11
+Umspannwerk Helmstedt;3800;substation;1,09993E+11;5,22001E+11
+Kraftwerk Buschhaus;3800;plant;1,09772E+11;5,21694E+11
+Umspannwerk Borken;3800;substation;9,25938E+11;5,10604E+11
+Karlsruhe-Daxlanden;3800;substation;8,31334E+11;4,9009E+11
+380-kV-Umspannwerk Eichstetten;3800;substation;77534954654;4,80994E+11
+Kernkraftwerk Philippsburg;3800;plant;8,43847E+11;4,92525E+11
+Umspannwerk Altlußheim;2200;substation;8,51211E+11;4,9294E+11
+Umspannwerk Neurott;3800;substation;8,62321E+11;4,93566E+11
+Umspannwerk Oberwald;2200;substation;8,44554E+11;4,89861E+11
+220 kV-Umspannwerk Birkenfeld;2200;substation;8,64158E+11;4,88901E+11
+Ganderkesee;3800;substation;8,56374E+11;5,30317E+11
+Unterweser;3800;substation;8,47471E+11;5,34287E+11
+Umspannwerk Farge;3800;substation;8,51888E+11;5,32026E+11
+Umspannwerk Blockland;2200;substation;8,82002E+11;5,31074E+11
+Bühl;2200;substation;8,12077E+11;48704835426
+Hauptumspannwerk Menzing;3800;substation;1,14408E+11;4,81718E+11
+Hradec;3800;substation;1,33264E+11;5,03464E+11
+Umspannwerk Etzenricht;3800;substation;1,21148E+11;4,96312E+11
+Niedervieland;3800;substation;8,69516E+11;5,30925E+11
+Umspannwerk Urberach;3800;substation;8,77244E+11;4,99747E+11
+Station Bürstadt;3800;substation;8,41937E+11;4,96337E+11
+Umspannstation Bischofsheim;3800;substation;8,38856E+11;4,99823E+11
+Umspannwerk Marke;3800;substation;1,22622E+11;5,1741E+11
+Umspannwerk Lauchstädt;3800;substation;1,18943E+11;5,14057E+11
+Umspannwerk Schönewalde;3800;substation;1,31571E+11;5,18285E+11
+Umspannwerk Ragow;3800;substation;1,39024E+11;51874723519
+Umspannwerk Klostermansfeld;3800;substation;1,15166E+11;5,15844E+11
+Umspannwerk Elsen;3800;substation;8,70222E+11;5,17364E+11
+Umspannwerk Twistetal;3800;substation;8,99279E+11;5,1343E+11
+Umspannwerk Remptendorf;3800;substation;1,16464E+11;50534876971
+Graustein;3800;substation;1,4472E+11;5,15538E+11
+Umspannwerk Bärwalde;3800;substation;1,45081E+11;5,14137E+11
+Umspannwerk Preilack;3800;substation;1,44282E+11;5,18889E+11
+EON Kraftwerk Wilhelmshaven;2200;plant;8,14191E+11;53564001168
+Kiel-Süd;2200;substation;1,01563E+11;54275548255
+Gemeinschaftskraftwerk Kiel;2200;generator;1,01774E+11;5,43395E+11
+Station Gronau;3800;substation;7,03497E+11;5,22029E+11
+Hanekenfähr;3800;substation;7,3082E+11;5,24768E+11
+Station Kusenhorst;3800;substation;7,06031E+11;5,16965E+11
+Station Gellep;2200;substation;6,67468E+11;5,1325E+11
+Station Mündelheim;2200;substation;6,72377E+11;5,13557E+11
+Station Roxel;3800;substation;7,54572E+11;5,19703E+11
+Erdgaskraftwerk Emsland;3800;plant;7,30561E+11;5,24801E+11
+;3800;substation;7,30434E+11;5,24824E+11
+Meppen;3800;substation;7,27715E+11;5,27532E+11
+Wehrendorf;3800;substation;83077568968;5,23456E+11
+Station Westerkappeln;3800;substation;7,88958E+11;5,22774E+11
+Benteler Stahlwerk;3800;substation;7,31785E+11;5,24691E+11
+Rozvodna P?eštice;3800;substation;1,33353E+11;4,95897E+11
+Bentwisch HGÜ;3800;substation;1,22148E+11;5,41003E+11
+Umspannwerk Uchtelfangen;3800;substation;6,99648E+11;4,93754E+11
+Station Niederstedem;3800;substation;6,47474E+11;4,99225E+11
+Wessin;3800;substation;1,16994E+11;5,35723E+11
+Görries;3800;substation;1,13706E+11;5,3601E+11
+Station Rosenblumendelle;3800;substation;6,94821E+11;51444578943
+Station Büscherhof;3800;substation;69267589636;5,14992E+11
+Station Niederrhein;3800;substation;6,68079E+11;5,16463E+11
+Station Hattingen;3800;substation;7,16721E+11;5,13899E+11
+Station Eiberg;3800;substation;7,12557E+11;5,1449E+11
+Station Karnap;3800;substation;6,99607E+11;5,15142E+11
+Witten;3800;substation;73131828429;5,14466E+11
+Station Uentrop;3800;substation;7,99289E+11;5,16837E+11
+Station Nehden;3800;substation;8,6248E+11;5,14279E+11
+Station Mengede;3800;substation;73531118694;5,15758E+11
+Station Hüllen;3800;substation;71232388295;5,15256E+11
+Station Arpe;3800;substation;8,21171E+11;5,1178E+11
+RWE Kraftwerk Frimmersdorf;2200;generator;6,57648E+11;5,10556E+11
+Station Norf;2200;substation;6,77252E+11;5,11471E+11
+Station Sechtem;3800;substation;6,97258E+11;5,07957E+11
+Station Ließem;3800;substation;7,13689E+11;5,06429E+11
+Station Oberzier;3800;substation;6,45655E+11;5,08713E+11
+Station Dauersberg;3800;substation;7,86395E+11;5,07682E+11
+RWE Kraftwerk Weisweiler;3800;plant;6,32166E+11;5,08383E+11
+Station Verlautenheide;3800;substation;6,16738E+11;5,0802E+11
+Station Rommerskirchen;3800;substation;67022033778;5,10089E+11
+KW Neurath;3800;substation;6,6124E+11;5,10359E+11
+Station Opladen;3800;substation;6,96568E+11;5,10693E+11
+Station Linde;3800;substation;7,2332E+11;5,12325E+11
+Umspannwerk Weisweiler;3800;substation;6,3009E+11;5,0829E+11
+Station Weißenthurm;3800;substation;7,44949E+11;5,04025E+11
+Station Osterath;3800;substation;6,62583E+11;5,12606E+11
+Station Halfeshof;3800;substation;7,12308E+11;5,11716E+11
+Station Sankt Peter 380 kV;3800;substation;6,80109E+11;5,11225E+11
+Station Ohligs;3800;substation;7,00878E+11;51174254918
+Station Knapsack;3800;substation;6,84265E+11;5,08635E+11
+Station Brauweiler;2200;substation;6,80461E+11;5,09662E+11
+Station Unna;3800;substation;7,71863E+11;5,15342E+11
+Geithe;3800;substation;7,93077E+11;5,1673E+11
+Station Pfalzdorf;2200;substation;6,22183E+11;5,16946E+11
+Kraftwerk Scholven;3800;generator;70067498786;51599911422
+Station Bergmannsglück;2200;substation;7,03762E+11;5,15985E+11
+Station Pöppinghausen;2200;substation;7,26408E+11;5,15736E+11
+Station Laer;2200;substation;7,27895E+11;5,14723E+11
+Kraftwerk Herne Baukau;2200;generator;7,18668E+11;5,15506E+11
+Kraftwerk Knepper;3800;generator;7,35136E+11;5,15684E+11
+Station Bochum;2200;substation;7,17938E+11;5,14722E+11
+UW Fühlingen;2200;substation;6,93489E+11;5,10335E+11
+Station Reisholz;2200;substation;6,82814E+11;5,11627E+11
+Umspannwerk Garenfeld;2200;substation;7,50597E+11;5,14016E+11
+Station Eller;2200;substation;6,847E+11;5,12056E+11
+Station Siegburg;2200;substation;7,19317E+11;5,07983E+11
+Station Gremberghoven;2200;substation;7,04738E+11;5,09055E+11
+Station Gohrpunkt;2200;substation;6,70967E+11;5,10909E+11
+Station Meckenheim;2200;substation;70129374264;5,06177E+11
+Station Dülken;2200;substation;6,33007E+11;5,12429E+11
+Station Dünnwald;2200;substation;7,02354E+11;5,09991E+11
+Umspannwerk Bixterheide;2200;substation;7,72438E+11;5,14093E+11
+Kraftwerkschaltanlage Knapsack 1;3800;substation;6,84223E+11;5,08599E+11
+Station Gütersloh;3800;substation;83642295307;5,19271E+11
+Station Hambach;3800;substation;6,48812E+11;5,08811E+11
+Conneforde;3800;substation;8,05409E+11;5,33323E+11
+Kernkraftwerk Unterweser;3800;substation;8,47791E+11;53428485469
+Conneforde 110/220 kV;2200;substation;8,05284E+11;5,33339E+11
+Bocklemünd;2200;substation;6,85153E+11;50984170468
+Station Paffendorf;3800;substation;6,59602E+11;5,09525E+11
+Schaltanlage Datteln 4;3800;substation;7,33861E+11;51631978125
+Station Gersteinwerk;3800;substation;7,70832E+11;5,16762E+11
+Kraftwerk Bergkamen;3800;generator;76170209951;5,16371E+11
+Station Wambel;2200;substation;7,52228E+11;5,15322E+11
+Station Nordlicht;3800;substation;6,90661E+11;5,15652E+11
+LMG;2200;substation;6,96734E+11;5,14909E+11
+Styrum;2200;substation;6,87287E+11;5,14458E+11
+Station Selbeck;2200;substation;6,86804E+11;5,13745E+11
+Station Hamborn;2200;substation;6,78752E+11;515055501
+Station Osterath;3800;substation;6,62284E+11;5,12587E+11
+Station Handbach;2200;substation;6,81217E+11;5,15196E+11
+Station Rheinhausen;2200;substation;6,72031E+11;51391532538
+Station Edelstahl Krefeld;2200;substation;6,54241E+11;51299445815
+Umspannwerk Lüdershagen;2200;substation;1,30786E+11;5,42848E+11
+Setzer Wiese;2200;substation;8,02029E+11;5,09236E+11
+Bertikow;2200;substation;1,3957E+11;5,32522E+11
+Vierraden;2200;substation;1,42708E+11;5,30963E+11
+Pasewalk;2200;substation;1,40337E+11;5,35079E+11
+"Stacja elektroenergetyczna ""Krajnik"" 400/220 kV";2200;substation;1,44763E+11;5,31967E+11
+Umspannwerk Hamburg/Süd;3800;substation;9,90885E+11;5,3488E+11
+Station Utfort;3800;substation;6,61738E+11;5,14758E+11
+Uerdingen;2200;substation;6,65674E+11;5,13795E+11
+Walsum Block 10;3800;substation;6,71115E+11;5,15262E+11
+Station Zensenbusch;3800;substation;6,68934E+11;5,15764E+11
+Kraftwerk Huckingen;2200;generator;6,72365E+11;5,13758E+11
+Umspannwerk Trossingen;3800;substation;8,61665E+11;4,8066E+11
+EnBW Umspannwerk Engstlatt;3800;substation;8,87294E+11;4,83101E+11
+Station Walsum;3800;substation;6,71525E+11;5,15268E+11
+Güstrow;2200;substation;1,21858E+11;53810859799
+Station Beeck;2200;substation;67225698095;5,14798E+11
+Kraftwerk Voerde;3800;generator;66830656826;5,15771E+11
+Station Möllen;3800;substation;6,68311E+11;5,15756E+11
+;2200;substation;6,74542E+11;51498641948
+Spellen;2200;substation;6,61428E+11;5,16187E+11
+;3800;substation;7,97066E+11;5,16768E+11
+Station Elmenhorst;2200;substation;7,44507E+11;5,16185E+11
+Station Ruhrort;2200;substation;6,73212E+11;5,14594E+11
+Sottrum;3800;substation;9,25103E+11;5,31144E+11
+Kernkraftwerk Emsland;3800;plant;7,32089E+11;5,24715E+11
+380kV Hengelo;3800;substation;6,75917E+11;5,22489E+11
+Elverlingsen;2200;substation;7,70633E+11;5,12786E+11
+Koepchenwerk;2200;plant;7,45034E+11;5,14136E+11
+RWE Kraftwerk Neurath BoA Bl. F/G;3800;plant;6,63448E+11;5,1036E+11
+Amelsbüren;2200;substation;7,60712E+11;5,18986E+11
+Station Lippe;3800;substation;7,40354E+11;51644449488
+Schaltanlage Ovenstädt;3800;substation;8,93969E+11;5,2403E+11
+Kernkraftwerk Grohnde;3800;plant;9,40952E+11;5,20343E+11
+Mittelbexbach;3800;substation;7,23579E+11;4,93694E+11
+Station Osburg;3800;substation;6,81368E+11;4,97248E+11
+Umspannanlage Pfungstadt;2200;substation;8,58869E+11;49815514058
+Station Rheinau;2200;substation;8,54716E+11;4,94405E+11
+BASF;2200;substation;8,40827E+11;4,95286E+11
+Umspannstation Hoheneck Amprion;3800;substation;9,19079E+11;4,89144E+11
+Kraftwerk Rostock;3800;generator;1,21321E+11;5,41425E+11
+Bentwisch;2200;substation;1,22136E+11;5,4112E+11
+Eickum;3800;substation;8,57126E+11;5,21054E+11
+Umspannwerk Bechterdissen;3800;substation;86593729029;5,19996E+11
+Diele;3800;substation;7,31136E+11;5,31258E+11
+380kV Meeden;3800;substation;6,94948E+11;5,31235E+11
+Umspannwerk Maximiliansau;2200;substation;8,27328E+11;4,90294E+11
+Netzleitstelle Mutterstadt;2200;substation;835233388;4,94213E+11
+Otterbach;2200;substation;7,7292E+11;4,94826E+11
+Godenau;2200;substation;9,79734E+11;5,20008E+11
+Vöhringen Amprion;3800;substation;1,00822E+11;4,82661E+11
+Umspannwerk Weinheim;2200;substation;8,62716E+11;49543595267
+Mannheim;2200;substation;8,50181E+11;4,94449E+11
+Umspannwerk Gundelfingen;3800;substation;1,03918E+11;4,85185E+11
+Lastverteilung/Schaltanlage Kühmoos;3800;substation;7,95805E+11;4,75955E+11
+Vöhringen LEW;3800;substation;1,00838E+11;4,82689E+11
+Umspannwerk Dellmensingen;3800;substation;9,88552E+11;4,83041E+11
+Umspannwerk Stockach;2200;substation;9,0134E+11;4,78453E+11
+Umspannwerk Gurtweil;2200;substation;8,25193E+11;4,76398E+11
+Umspannwerk Hoheneck EnBW;3800;substation;9,19676E+11;48912963438
+Heisdorf;2200;substation;6,13981E+11;4,96686E+11
+Station Trier;2200;substation;6,62054E+11;4,97489E+11
+Station Quint;2200;substation;6,70229E+11;4,9829E+11
+Station Kelsterbach;2200;substation;85315149394;5,00479E+11
+Umspannwerk Kriftel;3800;substation;8,47137E+11;5,00972E+11
+Station Limburg;3800;substation;80657379664;5,04061E+11
+Karlstein;3800;substation;8,98954E+11;5,00603E+11
+Umspannwerk Großkrotzenburg;3800;substation;8,95871E+11;5,00826E+11
+Schaltanlage Leupolz;3800;substation;1,03634E+11;4,77383E+11
+Trianel Kraftwerk Lünen;3800;generator;7,4615E+11;5,16146E+11
+Gersteinwerk Block K;3800;generator;7,71823E+11;5,16743E+11
+Gersteinwerk Block F;3800;generator;77155434195;5,16736E+11
+Gersteinwerk Block G;3800;generator;77145945335;5,16731E+11
+Gersteinwerk Block I;3800;generator;7,7127E+11;5,16727E+11
+Station Lippborg;3800;substation;7,98122E+11;5,16735E+11
+Niederhausen;2200;substation;7,79257E+11;4,98105E+11
+Station Wengerohr;2200;substation;6,92013E+11;4,99706E+11
+Dieffeln;2200;substation;6,75552E+11;4,93649E+11
+Kernkraftwerk Biblis;3800;plant;8,41467E+11;4,97091E+11
+Umspannwerk Rosdorf;2200;substation;9,8828E+11;5,15155E+11
+Hardegsen;2200;substation;9,85139E+11;5164913524
+EnBW Umspannwerk Oberjettingen;3800;substation;8,78579E+11;4,85838E+11
+380kV-Umspannwerk Pulverdingen;3800;substation;9,04543E+11;4,8903E+11
+Umspannwerk Obermooweiler;3800;substation;98013171669;4,76525E+11
+Umspannwerk Bürs;3800;substation;9,81092E+11;4,71426E+11
+Umspannwerk Herbertingen;3800;substation;9,42551E+11;4,80644E+11
+Station Lüstringen;2200;substation;81049595741;52264261374
+Umspannwerk Marienberg;2200;substation;1,21302E+11;47913165482
+Station Sankt Peter 220 kV;3800;substation;68018236571;5,11248E+11
+Station Eiserfeld;2200;substation;7,98507E+11;5,08422E+11
+Dillenburg;3800;substation;8,28486E+11;5,07591E+11
+Emden-Borßum;2200;substation;7,22424E+11;5,33499E+11
+Umspannwerk Kraftwerk Emden;2200;substation;7,20605E+11;5,33413E+11
+Flensburg;3800;substation;9,3182E+11;54716049409
+400 kV Kassø;2200;substation;9,27063E+11;5,5037E+11
+150 kV Enstedværket;2200;substation;9,43343E+11;55018722918
+;2200;substation;7,43349E+11;5,04365E+11
+Station Koblenz;3800;substation;7,5933E+11;5,03859E+11
+Atlantic;2200;substation;8,12216E+11;5,35658E+11
+Magdeburg (50Hertz);2200;substation;1,15615E+11;5,21239E+11
+Umspannwerk Röhrsdorf;3800;substation;1,28139E+11;5,08579E+11
+Umspannwerk Streumen;3800;substation;1,33823E+11;51355996158
+Umspannwerk Weida;3800;substation;1,2045E+11;5,07813E+11
+Eula;3800;substation;1,25182E+11;5,11571E+11
+Umspannwerk Aßlar;3800;substation;8,4801E+11;5,05909E+11
+Umspannwerk Gießen Nord;3800;substation;8,6566E+11;5,06055E+11
+Cloppenburg 220 kV;2200;substation;8,08163E+11;5,28586E+11
+Sandershausen;2200;substation;9,5671E+11;5,13253E+11
+Kraftwerkschaltanlage Ibbenbüren;2200;substation;7,74679E+11;5,22885E+11
+Umspannwerk Weier;2200;substation;7,91073E+11;4,85013E+11
+Station Ibbenbüren;2200;substation;7,72571E+11;5,22772E+11
+Umspannwerk Schmölln;3800;substation;1,42192E+11;5,11207E+11
+Kraftwerk Boxberg;3800;generator;1,45701E+11;5,1419E+11
+Umspannwerk Förderstedt;3800;substation;1,16442E+11;5,19085E+11
+Pumpspeicherkraftwerk Hohenwarte II;2200;plant;1,14747E+11;5,0604E+11
+Umspannwerk Altenfeld;3800;substation;1,0991E+11;5,05735E+11
+Umspannwerk Braunschweig Nord;2200;substation;1,05055E+11;5,23018E+11
+Kraftwerk Robert Frank;3800;plant;9,11363E+11;5,25458E+11
+Salzgitter-Hallendorf;2200;substation;1,03692E+11;5,21671E+11
+Gleidingen 220 kV;2200;substation;1,04195E+11;52236960662
+Mehrum (220 kV);2200;substation;100876468;5,23151E+11
+Station Sankt Hülfe;2200;substation;8,40314E+11;5,26096E+11
+Klein Ilsede;3800;substation;1,02359E+11;5229345954
+Umspannwerk Bergshausen;3800;substation;9,51424E+11;5,1259E+11
+Umspannanlage Würgassen;3800;substation;9,38765E+11;5,16407E+11
+UW Dipperz;3800;substation;9,77415E+11;5,05287E+11
+Umrichterwerk Neckarwestheim;3800;substation;9,17746E+11;4,90378E+11
+Gemeinschaftskraftwerk Neckarwestheim 2;3800;substation;9,17731E+11;4,90394E+11
+380-kV-Umspannwerk Großgartach;3800;substation;9,15135E+11;4,91434E+11
+Grafenrheinfeld;3800;substation;1,01878E+11;4,99812E+11
+Umspannwerk Höpfingen;3800;substation;9,44692E+11;4,95903E+11
+Heizkraftwerk Heilbronn;3800;generator;9,20736E+11;49176637954
+Umspannwerk Kupferzell;3800;substation;9,69466E+11;4,92326E+11
+Umspannwerk Goldshöfe;3800;substation;1,01175E+11;4,88971E+11
+Pulgar;3800;substation;1,23374E+11;5,1197E+11
+Station Meitingen;3800;substation;1,08676E+11;4,85395E+11
+Umspannwerk Oberottmarshausen;3800;substation;1,08409E+11;4,8238E+11
+"Umspannwerk Lechhausen; Übernahmestation Lechhausen";3800;substation;1,09367E+11;4,84013E+11
+APG Umspannwerk Westtirol;3800;substation;10873935757;4,72444E+11
+Umspannwerk Meitingen;3800;substation;1,08638E+11;4,85468E+11
+EnBW Umspannwerk Laichingen;3800;substation;9,70423E+11;4,84651E+11
+EnBW Umspannwerk Wendlingen;3800;substation;9,40063E+11;4,86669E+11
+Poste électrique de Vogelgrun;2200;substation;7,57244E+11;4,80189E+11
+220-kV-Umspannwerk Eichstetten;3800;substation;7,75186E+11;4,80964E+11
+Crossen;2200;substation;1,24772E+11;5,07531E+11
+Umspannwerk Hagenwerder;3800;substation;1,49465E+11;51062586216
+"Stacja elektroenergetyczna ""Miku?owa"" 400/220/110 kV";3800;substation;1,5115E+11;5,10906E+11
+Umspannwerk DD-Süd;3800;substation;1,38413E+11;5,09902E+11
+Freiberg/Nord (380 kV);3800;substation;1,32556E+11;5,09302E+11
+Umspannwerk St. Peter;2200;substation;1,30819E+11;4,82565E+11
+Umspannwerk Simbach;2200;substation;1,30028E+11;4,8262E+11
+Umspannwerk Altheim;2200;substation;1,22208E+11;4,85857E+11
+Umspannwerk Pirach;2200;substation;1,27474E+11;4,81488E+11
+Umspannwerk Pleinting;3800;substation;1,31034E+11;4,86668E+11
+Umspannwerk Jardelund;3800;substation;9,19698E+11;5,48511E+11
+Umspannwerk Redwitz;3800;substation;1,11937E+11;5,01622E+11
+Umspannwerk Oberhaid;3800;substation;1,0836E+11;4,99281E+11
+Umspannwerk Mechlenreuth;3800;substation;1,18107E+11;5,01838E+11
+Isar;3800;substation;1,22969E+11;4,86069E+11
+Schwandorf;3800;substation;1,20823E+11;4,92974E+11
+Beerfelden;2200;substation;8,95368E+11;4,95674E+11
+Umspannwerk Taucha;2200;substation;1,24696E+11;5,13717E+11
+Großdalzig;2200;substation;1,22488E+11;5,11979E+11
+Wolkramshausen (220 kV);2200;substation;1,07347E+11;51440186758
+Pumpspeicherwerk Goldisthal;3800;substation;1,10049E+11;5,05074E+11
+Niederwiesa;2200;substation;1,30026E+11;5,08659E+11
+Umspannwerk Herlasgrün;2200;substation;1,22428E+11;5,05675E+11
+Umspannwerk Reuter;3800;substation;1,3249E+11;5,25316E+11
+Umspannwerk Charlottenburg;3800;substation;1,33155E+11;5,2522E+11
+Berlin/Mitte;3800;substation;1,33687E+11;5,25031E+11
+Umspannwerk Sittling;2200;substation;1,17924E+11;4,88382E+11
+Umspannwerk Ludersheim;2200;substation;1,1327E+11;4,93935E+11
+Ingolstadt;3800;substation;1,15077E+11;4,87611E+11
+Zolling - Irsching;2200;substation;1,18076E+11;4,84554E+11
+Irsching;3800;substation;1,15814E+11;4,87649E+11
+Föhring;3800;substation;1,16393E+11;4,81788E+11
+Vianden;2200;substation;6,17791E+11;4,99531E+11
+SA Bauler;2200;substation;6,21102E+11;4,99586E+11
+Flebour;2200;substation;6,11452E+11;4,99054E+11
+Roost;2200;substation;6,08346E+11;4,97764E+11
+Poste électrique de Vigy;3800;substation;62769417852;4,91977E+11
+Umspannanlage Ensdorf;3800;substation;6,77321E+11;4,92911E+11
+Poste électrique de Saint-Avold;2200;substation;6,70365E+11;4,91385E+11
+Laufenburg;3800;substation;8,04936E+11;4,75509E+11
+Ratsbusch;2200;substation;7,50006E+11;5,15352E+11
+Station Dhünnaue;2200;substation;6,97593E+11;5,10376E+11
+Heizkraftwerk Reuter West;3800;generator;1,32428E+11;5,2535E+11
+Umspannwerk Bruchsal-Kändelweg;3800;substation;8,56218E+11;49132949936
+Philippsburg 380 kV;3800;substation;84413154852;49251402647
+Kavernenkraftwerk Wehr;3800;generator;7,94208E+11;4,76533E+11
+Alfstedt;3800;substation;9,06879E+11;5,35666E+11
+UA Dillinger Hütte Mitte;2200;substation;67413761725;4,93575E+11
+UA Obergraben;2200;substation;6,7497E+11;4,93652E+11
+Station Saarwellingen;2200;substation;6,76602E+11;4,93601E+11
+Umspannwerk Regensburg;2200;substation;1,21504E+11;4,90128E+11
+Station Münster;2200;substation;7,59136E+11;51928441667
+Karlsruhe-Rintheim;2200;substation;8,45154E+11;49007402913
+KW Heyden;3800;substation;8,99621E+11;5,23796E+11
+EnBW Umspannwerk Bünzwangen;3800;substation;9,56282E+11;4870148982
+EnBW Umspannwerk Altbach 1;3800;substation;93708454159;4871912333
+EnBW Umspannwerk Endersbach;3800;substation;9,37761E+11;4,88126E+11
+Lahe;2200;substation;9,82158E+11;5,24249E+11
+Obrigheim;2200;substation;90762254363;4,93634E+11
+Umspannwerk Bergrheinfeld;3800;substation;10160291269;4,99892E+11
+Schweinfurt;2200;substation;10196491572;5,0028E+11
+Umspannwerk Raitersaich;3800;substation;10843117799;4,93787E+11
+Umspannwerk Aschaffenburg;3800;substation;9,09052E+11;4,997E+11
+Umspannwerk Lage;2200;substation;8,81399E+11;5,19834E+11
+Veltheim;2200;substation;8,93222E+11;5,21933E+11
+Umspannwerk Meißen;2200;substation;8,95904E+11;5,22785E+11
+Umspannwerk Trennfeld;2200;substation;9,5943E+11;4,97984E+11
+Kriegenbrunn;3800;substation;1,09729E+11;4,95585E+11
+Kraftwerkseinspeisung Staudinger;3800;substation;8,95464E+11;5,0086E+11
+UW Stahlwerk ThyssenKrupp Nirosta;2200;substation;7,1759E+11;5,14756E+11
+Umspannwerk Niederstotzingen;3800;substation;1,02316E+11;4,85298E+11
+Umspannwerk Rotensohl;3800;substation;1,02225E+11;4,87368E+11
+380kV-Umspannwerk Grünkraut;3800;substation;9,64534E+11;47744596109
+Gundremmingen;3800;substation;1,04016E+11;4,85099E+11
+Umspannwerk Karben;3800;substation;8,80962E+11;5,02035E+11
+Audorf;3800;substation;9,72461E+11;5,42883E+11
+Umspannwerk Weilimdorf;2200;substation;90971422094;4,88278E+11
+Umspannwerk Bielefeld Ost;2200;substation;8,62886E+11;5,19936E+11
+Umspannwerk Kiel West;2200;substation;1,00604E+11;5,43488E+11
+Itzehoe/West;2200;substation;9,44964E+11;5,39673E+11
+Tiengen;3800;substation;8,25886E+11;4,76342E+11
+Betznau;3800;substation;8,23209E+11;4,75561E+11
+Asphard;3800;substation;7,75259E+11;4,75391E+11
+Beuren;2200;substation;8,86153E+11;4,78064E+11
+Umspannwerk Mühlhausen;3800;substation;9,21565E+11;4,88523E+11
+Kernkraftwerk Gundremmingen;3800;plant;1,04013E+11;4,85146E+11
+Umspannwerk Paderborn Süd;2200;substation;8,73757E+11;5,17002E+11
+Lübeck;2200;substation;1,06415E+11;5,39192E+11
+Umspannwerk Wiesloch;3800;substation;8,67372E+11;4,92904E+11
+Götzdorf;2200;substation;9,4879E+11;5,36366E+11
+Abbenfleth;2200;substation;9,49151E+11;5,36581E+11
+Poste électrique de Sierentz;3800;substation;7,47227E+11;4,76466E+11
+Freiluftschaltanlage KW Schärding-Neuhaus;2200;substation;1,34429E+11;4,84345E+11
+Jochenstein;2200;substation;13710690104;4,85193E+11
+Umspannwerk Hüffenhardt;3800;substation;9,09184E+11;4,92946E+11
+Umspannanlage Heidelberg-Süd;2200;substation;8,66378E+11;4,93601E+11
+Kavernenkraftwerk Säckingen;2200;generator;7,95849E+11;4,75791E+11
+Karlsruhe-West;2200;substation;8,34913E+11;4,90131E+11
+;2200;substation;1,04204E+11;5,21652E+11
+;2200;substation;1,03885E+11;5,21514E+11
+;3800;substation;8,30626E+11;4,90128E+11
+Kraftwerk Jänschwalde;3800;plant;1,44599E+11;5,18333E+11
+Siersdorf;3800;substation;6,21619E+11;5,09124E+11
+380kV Maasbracht;3800;substation;5,91853E+11;5,11484E+11
+Kirchberg Süd;3800;auxillary_T_node;6,21402E+11;5,09439E+11
+Silz;2200;substation;1,09663E+11;4,72695E+11
+Umspannwerk Krün;2200;substation;1,12777E+11;47495872667
+Silz (AT) - Krün (DE) - Oberbrunn;2200;auxillary_T_node;1,12869E+11;4,74929E+11
+302 Marzahn - Thyrow;2200;auxillary_T_node;1,35053E+11;52474778852
+Umspannwerk Villingen;3800;substation;8,46543E+11;4,80435E+11
+ENGST-KUHMO-VILLI;3800;auxillary_T_node;8,53056E+11;4,79148E+11
+220-kV-Umspannwerk Kuppenheim;2200;substation;8,24873E+11;4,88463E+11
+Daxlanden - Weier;2200;auxillary_T_node;82497504566;4,88492E+11
+202;2200;auxillary_T_node;9,45968E+11;5,38647E+11
+Großschwabhausen;3800;substation;1,14704E+11;5,09304E+11
+415;3800;auxillary_T_node;1,14299E+11;5,09114E+11
+Umspannwerk Rhede;3800;substation;7,25466E+11;5,30267E+11
+Emsland West;3800;auxillary_T_node;7,25502E+11;5,30267E+11
+Amelsbüren;2200;auxillary_T_node;7,37186E+11;5,21977E+11
+Umspannwerk Windpark Iven;2200;substation;1,33998E+11;5,37944E+11
+316;2200;auxillary_T_node;1,33985E+11;5,37933E+11
+Schwerterheide Nord;3800;auxillary_T_node;7,42475E+11;5,14593E+11
+Oerkhaus West;3800;auxillary_T_node;7,12336E+11;5,14473E+11
+Station Kruckel;3800;substation;7,41671E+11;5,14571E+11
+Witten West;3800;auxillary_T_node;7,41658E+11;5,14608E+11
+Station Dahlem;3800;substation;6,53175E+11;5,03901E+11
+Selhausen West;3800;auxillary_T_node;6,53304E+11;5,03922E+11
+Neurath 2b;3800;auxillary_T_node;6,60879E+11;5,10347E+11
+Station Rath;3800;substation;6,80891E+11;5,12686E+11
+Meerbusch West;3800;auxillary_T_node;6,72033E+11;5,13441E+11
+Hochlarmark West;2200;auxillary_T_node;7,13937E+11;5,15608E+11
+Haarstrang Ost;3800;auxillary_T_node;7,41946E+11;5,14575E+11
+Station Welper;2200;substation;7,19598E+11;5,14116E+11
+Welper Ost;2200;auxillary_T_node;7,1792E+11;5,14218E+11
+Rheinzink;2200;substation;7,32428E+11;5,16214E+11
+Elmenhorst Süd;2200;auxillary_T_node;7,34371E+11;5,16131E+11
+Utfort West;2200;auxillary_T_node;6,52273E+11;5,13225E+11
+Station Bollenacker;2200;substation;6,96331E+11;5,08338E+11
+Godorf Ost;2200;auxillary_T_node;6,92909E+11;5,08442E+11
+Station Stockem;2200;substation;7,09583E+11;5,08269E+11
+Gremberghoven Ost;2200;auxillary_T_node;7,09436E+11;5,0827E+11
+Station Ossenberg;2200;substation;6,57729E+11;5,15564E+11
+Wesel Ost;2200;auxillary_T_node;6,65067E+11;5,15537E+11
+Uentrop Nord;3800;auxillary_T_node;7,82599E+11;5,17501E+11
+Olefin West;2200;auxillary_T_node;6,92898E+11;5,08438E+11
+Station Enniger;3800;substation;7,99396E+11;5,18231E+11
+Gersteinwerk Ost;3800;auxillary_T_node;7,83402E+11;5,1755E+11
+Wechold;2200;substation;9,14518E+11;52853246436
+Leitung 2010/2023;2200;auxillary_T_node;9,13795E+11;5,2847E+11
+Station Hesseln;2200;substation;8,31889E+11;5,2066E+11
+Halle West;2200;auxillary_T_node;8,33467E+11;5,20705E+11
+Geithe West;3800;auxillary_T_node;79818783186;5,16767E+11
+Erzhausen;2200;substation;9,92383E+11;5,18976E+11
+Leitung 2030/2001;2200;auxillary_T_node;98524162497;5,18988E+11
+Leitung 3019/3026/3027;3800;auxillary_T_node;9,41368E+11;5,20275E+11
+Leitung 2019/2027/2029;2200;auxillary_T_node;1,03552E+11;5,21758E+11
+Umspannwerk Bidingen Nr. 697 S;3800;substation;1070273189;4,78265E+11
+K12;3800;auxillary_T_node;1,07037E+11;4,78264E+11
+Umspannwerk Memmingen;2200;substation;10194933444;4,79709E+11
+Umspannstation Irsingen;2200;substation;1,06413E+11;48027451241
+;2200;auxillary_T_node;1,06418E+11;4,80258E+11
+HD-Neurott - Hüffenhardt;3800;auxillary_T_node;8,6701E+11;4,93092E+11
+Vörden;3800;substation;9,22809E+11;5,18125E+11
+;3800;auxillary_T_node;9,23187E+11;5,18101E+11
+Delmensingen - Niederstotzingen - Rotensohl;3800;auxillary_T_node;1,02342E+11;4,85289E+11
+Umspannwerk Frankfurt Nord;2200;substation;8,73514E+11;5,01592E+11
+Dörnigheim 110 kV;2200;substation;8,87226E+11;5,01297E+11
+Staudinger - Dörnigheim - Frankfurt Nord;2200;auxillary_T_node;8,74326E+11;5,01623E+11
+Audorf - Jardelund;3800;auxillary_T_node;93322301656;5,4721E+11
+Umspannwerk Kraftwerk Robert Frank;2200;substation;9,11321E+11;5,25439E+11
+Wahle;2200;substation;1,03663E+11;5,22846E+11
+Wustermark;2200;substation;1,29416E+11;5,25621E+11
+Neuenhagen;2200;substation;1,37097E+11;5,25398E+11
+Umspannwerk Oberbachern;2200;substation;1,13704E+11;48291492233
+Umspannwerk Ottenhofen;2200;substation;1,18682E+11;4,82068E+11
+Umspannwerk Lubmin;2200;substation;1,36835E+11;5,41391E+11
+Umspannwerk Hamburg-Nord;2200;substation;9,98461E+11;53741128776
+Umspannwerk Kernkraftwerk Brunsbüttel;2200;substation;9,2021E+11;5389515741
+Audorf;2200;substation;9,72699E+11;5,42914E+11
+Brokdorf;2200;substation;9,344E+11;5,38518E+11
+Dollern;2200;substation;9,50179E+11;5,35428E+11
+Umspannwerk Vieselbach;2200;substation;1,11229E+11;50998909067
+Umspannwerk Wolmirstedt;2200;substation;1,16389E+11;5,22687E+11
+Güstrow;2200;substation;1,2187E+11;5,38158E+11
+Umspannwerk Marzahn;2200;substation;13524198731;5,25356E+11
+Karlsruhe-Daxlanden;2200;substation;8,31334E+11;4,9009E+11
+Umspannwerk Neurott;2200;substation;8,62321E+11;4,93566E+11
+Umspannwerk Farge;2200;substation;8,51888E+11;5,32026E+11
+Umspannwerk Urberach;2200;substation;8,77244E+11;4,99747E+11
+Station Bürstadt;2200;substation;8,41937E+11;4,96337E+11
+Umspannwerk Ragow;2200;substation;1,39024E+11;51874723519
+Umspannwerk Remptendorf;2200;substation;1,16464E+11;50534876971
+Hanekenfähr;2200;substation;7,3082E+11;5,24768E+11
+Station Kusenhorst;2200;substation;7,06031E+11;5,16965E+11
+Wehrendorf;2200;substation;83077568968;5,23456E+11
+Station Westerkappeln;2200;substation;7,88958E+11;5,22774E+11
+Benteler Stahlwerk;2200;substation;7,31785E+11;5,24691E+11
+Umspannwerk Uchtelfangen;2200;substation;6,99648E+11;4,93754E+11
+Station Niederstedem;2200;substation;6,47474E+11;4,99225E+11
+Station Büscherhof;2200;substation;69267589636;5,14992E+11
+Station Niederrhein;2200;substation;6,68079E+11;5,16463E+11
+Station Hattingen;2200;substation;7,16721E+11;5,13899E+11
+Station Eiberg;2200;substation;7,12557E+11;5,1449E+11
+Station Sechtem;2200;substation;6,97258E+11;5,07957E+11
+Station Dauersberg;2200;substation;7,86395E+11;5,07682E+11
+Station Rommerskirchen;2200;substation;67022033778;5,10089E+11
+KW Neurath;2200;substation;6,6124E+11;5,10359E+11
+Station Opladen;2200;substation;6,96568E+11;5,10693E+11
+Station Weißenthurm;2200;substation;7,44949E+11;5,04025E+11
+Station Osterath;2200;substation;6,62583E+11;5,12606E+11
+Kraftwerk Scholven;2200;generator;70067498786;51599911422
+Kraftwerk Knepper;2200;generator;7,35136E+11;5,15684E+11
+Kraftwerkschaltanlage Knapsack 1;2200;substation;6,84223E+11;5,08599E+11
+Station Gütersloh;2200;substation;83642295307;5,19271E+11
+Conneforde;2200;substation;8,05409E+11;5,33323E+11
+Kernkraftwerk Unterweser;2200;substation;8,47791E+11;53428485469
+Station Gersteinwerk;2200;substation;7,70832E+11;5,16762E+11
+Station Utfort;2200;substation;6,61738E+11;5,14758E+11
+Station Walsum;2200;substation;6,71525E+11;5,15268E+11
+Station Möllen;2200;substation;6,68311E+11;5,15756E+11
+Sottrum;2200;substation;9,25103E+11;5,31144E+11
+Umspannwerk Bechterdissen;2200;substation;86593729029;5,19996E+11
+Lastverteilung/Schaltanlage Kühmoos;2200;substation;7,95805E+11;4,75955E+11
+Vöhringen LEW;2200;substation;1,00838E+11;4,82689E+11
+Umspannwerk Dellmensingen;2200;substation;9,88552E+11;4,83041E+11
+Umspannwerk Hoheneck EnBW;2200;substation;9,19676E+11;48912963438
+Schaltanlage Leupolz;2200;substation;1,03634E+11;4,77383E+11
+Trianel Kraftwerk Lünen;2200;generator;7,4615E+11;5,16146E+11
+Gersteinwerk Block F;2200;generator;77155434195;5,16736E+11
+Gersteinwerk Block G;2200;generator;77145945335;5,16731E+11
+Gersteinwerk Block I;2200;generator;7,7127E+11;5,16727E+11
+380kV-Umspannwerk Pulverdingen;2200;substation;9,04543E+11;4,8903E+11
+Umspannwerk Bürs;2200;substation;9,81092E+11;4,71426E+11
+Umspannwerk Herbertingen;2200;substation;9,42551E+11;4,80644E+11
+Station Sankt Peter 220 kV;2200;substation;68018236571;5,11248E+11
+Flensburg;2200;substation;9,3182E+11;54716049409
+Umspannwerk Röhrsdorf;2200;substation;1,28139E+11;5,08579E+11
+Umspannwerk Weida;2200;substation;1,2045E+11;5,07813E+11
+Eula;2200;substation;1,25182E+11;5,11571E+11
+Umspannwerk Förderstedt;2200;substation;1,16442E+11;5,19085E+11
+Umspannanlage Würgassen;2200;substation;9,38765E+11;5,16407E+11
+380-kV-Umspannwerk Großgartach;2200;substation;9,15135E+11;4,91434E+11
+Grafenrheinfeld;2200;substation;1,01878E+11;4,99812E+11
+Umspannwerk Goldshöfe;2200;substation;1,01175E+11;4,88971E+11
+Umspannwerk Oberottmarshausen;2200;substation;1,08409E+11;4,8238E+11
+APG Umspannwerk Westtirol;2200;substation;10873935757;4,72444E+11
+220-kV-Umspannwerk Eichstetten;2200;substation;7,75186E+11;4,80964E+11
+Umspannwerk Pleinting;2200;substation;1,31034E+11;4,86668E+11
+Umspannwerk Redwitz;2200;substation;1,11937E+11;5,01622E+11
+Umspannwerk Mechlenreuth;2200;substation;1,18107E+11;5,01838E+11
+Schwandorf;2200;substation;1,20823E+11;4,92974E+11
+Ingolstadt;2200;substation;1,15077E+11;4,87611E+11
+Irsching;2200;substation;1,15814E+11;4,87649E+11
+Umspannanlage Ensdorf;2200;substation;6,77321E+11;4,92911E+11
+Laufenburg;2200;substation;8,04936E+11;4,75509E+11
+Umspannwerk Bergrheinfeld;2200;substation;10160291269;4,99892E+11
+Umspannwerk Raitersaich;2200;substation;10843117799;4,93787E+11
+Umspannwerk Aschaffenburg;2200;substation;9,09052E+11;4,997E+11
+Kraftwerkseinspeisung Staudinger;2200;substation;8,95464E+11;5,0086E+11
+Tiengen;2200;substation;8,25886E+11;4,76342E+11
+Betznau;2200;substation;8,23209E+11;4,75561E+11
+Umspannwerk Wiesloch;2200;substation;8,67372E+11;4,92904E+11
+Umspannwerk Hüffenhardt;2200;substation;9,09184E+11;4,92946E+11
+Station Kruckel;2200;substation;7,41671E+11;5,14571E+11
+Haarstrang Ost;2200;auxillary_T_node;7,41946E+11;5,14575E+11
